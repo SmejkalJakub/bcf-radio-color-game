@@ -1,0 +1,5 @@
+article: https://www.hackster.io/jakub-smejkal/bigclown-color-game-e70dfb
+assembly:
+  - name: BigClown Button Module
+  - name: BigClown Core Module
+  - name: BigClown Power Module
