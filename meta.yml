@@ -1,8 +1,8 @@
-article: https://www.hackster.io/jakub-smejkal/bigclown-color-game-e70dfb
+article: https://www.hackster.io/158970/hardwario-iot-kit-color-game-e70dfb
 articles:
-  - title: BigClown Color Game
-    url: https://www.hackster.io/jakub-smejkal/bigclown-color-game-e70dfb
-    description: Teach your kids colors in different languages with BigClown, LED lights and this simple color game.
+  - title: HARWDARIO IoT Kit Color Game
+    url: https://www.hackster.io/158970/hardwario-iot-kit-color-game-e70dfb
+    description: Teach your kids colors in different languages with HARDWARIO IoT Kit, LED lights and this simple color game.
     video: https://hackster.imgix.net/uploads/attachments/894026/color_game_1q52JSQ4zK.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4
 assembly:
   - name: BigClown Button Module
