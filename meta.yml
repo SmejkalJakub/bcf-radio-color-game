@@ -5,6 +5,6 @@ articles:
     description: Teach your kids colors in different languages with HARDWARIO IoT Kit, LED lights and this simple color game.
     video: https://hackster.imgix.net/uploads/attachments/894026/color_game_1q52JSQ4zK.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4
 assembly:
-  - name: BigClown Button Module
-  - name: BigClown Core Module
-  - name: BigClown Power Module
+  - name: HARDWARIO Button Module
+  - name: HARDWARIO Core Module
+  - name: HARDWARIO Power Module

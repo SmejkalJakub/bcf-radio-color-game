@@ -1,5 +1,10 @@
 <a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
 
+# Game for kids to learn about colors
+
+[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-color-game/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-color-game)
+[![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-color-game.svg)](https://github.com/bigclownprojects/bcf-radio-color-game/releases)
+[![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-color-game.svg)](https://github.com/bigclownprojects/bcf-radio-color-game/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
 
 This repository contains firmware Color Game with LED strip for [Core Module](https://shop.bigclown.com/core-module).
